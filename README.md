@@ -6,7 +6,7 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" />
 <img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
-
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
 
 
 <!--
