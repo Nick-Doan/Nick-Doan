@@ -9,8 +9,10 @@
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
 <img align="left" alt="Juypter" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
 <img align="left" alt="Command" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=19291&format=png&color=000000" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=19291&format=png&color=000000" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000" />
 <!--
+
+https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000
 **Nick-Doan/Nick-Doan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
