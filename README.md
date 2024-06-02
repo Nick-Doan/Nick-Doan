@@ -25,6 +25,10 @@
 
 ### OS
 
+<img align="left" alt="Windows" width="50px" style="padding-right:10px;" src= "https://img.icons8.com/?size=100&id=108792&format=png&color=000000" />
+<img align="left" alt="Pop_os" width="50px" style="padding-right:10px;" src= "https://img.icons8.com/?size=100&id=PKDtxqyKdkxU&format=png&color=000000" />
+<img align="left" alt="Ubuntu" width="50px" style="padding-right:10px;" src= "https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" />
+
 
 
 <!--
