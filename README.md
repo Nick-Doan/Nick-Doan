@@ -19,8 +19,9 @@
 
 <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" />
 <img align="left" alt="Snowflake" width="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=wgC4n5niQXU_&format=png&color=000000" />
-<img align="left" alt="Snowflake" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-
+<img align="left" alt="Apache_spark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+<img align="left" alt="Apache_airflow" width="50px" style="padding-right:10px;" src="![airflow_logo-1347470151](https://github.com/Nick-Doan/Nick-Doan/assets/160164886/39bc2a33-93ff-4a18-98c6-1ef0c2d3e648)")
+ />
 <br />
 
 #
